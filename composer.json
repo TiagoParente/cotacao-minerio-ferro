@@ -1,0 +1,11 @@
+{
+    "name": "tiagoparente/cotacao-minerio-ferro",
+    "description": "WebScrapping feito no site Sina, para buscar a cotação do minério de ferro.",
+    "authors": [
+        {
+            "name": "Tiago Parente",
+            "email": "tiago.cs96@hotmail.com"
+        }
+    ],
+    "require": {}
+}
