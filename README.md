@@ -1,2 +1,2 @@
-# cotacao-minerio-ferro
-Web Scraping no site Sina para buscar a cotação do minério de ferro
+# COTAÇÃO - Minério de Ferro
+Web Scraping no site Sina para buscar a cotação do minério de ferro.
