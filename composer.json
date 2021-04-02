@@ -1,6 +1,6 @@
 {
     "name": "tiagoparente/cotacao-minerio-ferro",
-    "version": "1.0.0",
+    "license": "MIT",
     "description": "WebScrapping feito no site Sina, para buscar a cotação do minério de ferro.",
     "authors": [{
         "name": "Tiago Parente",
